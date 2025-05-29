@@ -11,7 +11,7 @@
   
 🤖 &emsp; I love crafting automation that boosts software quality and makes testing smoother than ever. <br/><br/>
 🧪 &emsp; Fueled by code and curiosity, I build handy tools that make life easier for QA and dev teams. <br/><br/>
-📮 &emsp; Drop me a line anytime: [📩](gjusecheo@gmail.com) <br/><br/>
+📮 &emsp; Drop me a line anytime: [📩](mailto:gjusecheo@gmail.com) <br/><br/>
 🧠 &emsp; Got a question? Let's geek out together! [here](https://github.com/guseche/guseche/issues) <br/><br/>
 
 </p>
